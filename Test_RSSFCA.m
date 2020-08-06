@@ -1,6 +1,6 @@
 %Please cite the paper "Xiaohong Jia,Tao Lei,Xiaogang Du,Shigang Liu,Hongying Meng,and Asoke K. Nandi,
 %Robust Self-Sparse Fuzzy Clustering for Image Segmentation" 
-%has been accepted for publish in IEEE Access.
+%has been accepted for publication in IEEE Access.
 
 %The code was written by Xiaohong Jia and Tao Lei in 2020.
 
